@@ -26,4 +26,4 @@ def groups_of_3(lists):
         listb = [lists[3], lists[4], lists[5]]
         listc = [lists[6], lists[7], lists[8]]
     return [lista, listb, listc]
-
+# 5
